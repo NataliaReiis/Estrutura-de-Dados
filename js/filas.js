@@ -15,7 +15,7 @@ class Filas {
         }
         this.frontItem = function() {
             return items[0]
-
+ 
         }
 
         this.Empety = function() {
@@ -31,13 +31,14 @@ class Filas {
         }
     }
 }
-/* 
-var primeirafila = new Filas()
+
+/* var primeirafila = new Filas()
 
 primeirafila.add('Natalia')
 primeirafila.add('Oliveira')
 primeirafila.add('Reis')
 primeirafila.print() */
+
 
 function ListPriority() {
         var items = []
